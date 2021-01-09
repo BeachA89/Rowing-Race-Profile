@@ -1,0 +1,13 @@
+name: rowing_race_profile
+title: Rowing Race Profile
+username: aaron.beach@nswis.com.au
+account: aaron.beach@nswis.com.au
+server: nswis-rsc01.nswis.com.au
+hostUrl: https://nswis-rsc01.nswis.com.au/__api__
+appId: 57
+bundleId: 346
+url: https://nswis-rsc01.nswis.com.au/content/57/
+when: 1599087187.27773
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|globalv1.R|serverv1.R|R scripts/500m 25m split vel and SR.R|R scripts/server1.R|R scripts/server2.R|R scripts/server3.R|R scripts/ui1.R|datav1
